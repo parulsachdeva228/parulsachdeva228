@@ -11,12 +11,9 @@ I specialize in crafting highly efficient and elegantly designed software applic
 🤝 Collaborative Team Player
 I excel in collaborative environments, working passionately with teams to overcome technical challenges and deliver outstanding solutions that leave a meaningful impact.
 
-🚀 Let’s Connect!
-I’m always eager to learn, grow, and contribute. Let’s connect and explore how I can bring value to your team and make a difference!
-
-📫 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile) 
-📧 [Email](mailto:parulsachdeva228@gmail.com)
+## 📫 Connect with Me:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) 
+- 📧 [Email](mailto:parulsachdeva228@gmail.com)
 
 ## 🛠️ Skills
 
@@ -25,3 +22,6 @@ I’m always eager to learn, grow, and contribute. Let’s connect and explore h
 - **Tools**: MongoDB, MySQL, Oracle, AWS EC2, Linux  
 - **Soft Skills**: Leadership, Event Management, Teamwork, Public Speaking  
 - **Version Control**: Git, GitHub
+
+🚀 Let’s Connect!
+I’m always eager to learn, grow, and contribute. Let’s connect and explore how I can bring value to your team and make a difference!
