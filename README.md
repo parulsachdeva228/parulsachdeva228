@@ -1,4 +1,4 @@
-##About Me
+# About Me
 🎓 Computer Engineering Graduate
 Hi there! 👋 I'm Parul Sachdeva, an aspiring Software Engineer, equipped with a robust foundation in programming, database management, and algorithm design.
 
