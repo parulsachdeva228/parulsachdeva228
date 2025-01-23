@@ -18,9 +18,10 @@ I’m always eager to learn, grow, and contribute. Let’s connect and explore h
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) 
 📧 [Email](mailto:parulsachdeva228@gmail.com)
 
-🛠️ Skills
-Languages: Java, C++, Python, C, SQL, JavaScript, PHP  
-Web Technologies: Front-end Development, Backend Development, HTML, CSS  
-Tools: MongoDB, My SQL, Oracle, AWS EC2, Linux  
-Soft Skills: Leadership, Event Management, Teamwork, Public Speaking  
-Version Control: Git, GitHub
+## 🛠️ Skills
+
+- **Languages**: Java, C++, Python, C, SQL, JavaScript, PHP  
+- **Web Technologies**: Front-end Development, Backend Development, HTML, CSS  
+- **Tools**: MongoDB, MySQL, Oracle, AWS EC2, Linux  
+- **Soft Skills**: Leadership, Event Management, Teamwork, Public Speaking  
+- **Version Control**: Git, GitHub
