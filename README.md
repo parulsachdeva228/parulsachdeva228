@@ -15,7 +15,7 @@ I excel in collaborative environments, working passionately with teams to overco
 I’m always eager to learn, grow, and contribute. Let’s connect and explore how I can bring value to your team and make a difference!
 
 ## 📫 Connect with Me:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/parul-sachdeva02)
 - 📧 [Email](mailto:parulsachdeva228@gmail.com)
 
 ## 🛠️ Skills
