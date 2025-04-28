@@ -20,7 +20,7 @@ I’m always eager to learn, grow, and contribute. Let’s connect and explore h
 
 ## 🛠️ Skills
 
-- **Languages**: Java, C++, Python, C, SQL, JavaScript, PHP  
+- **Languages**: C/C++, Python, Java, SQL, JavaScript, PHP  
 - **Web Technologies**: Front-end Development, Backend Development, HTML, CSS  
 - **Tools**: MongoDB, MySQL, Oracle, AWS EC2, Linux  
 - **Soft Skills**: Leadership, Event Management, Teamwork, Public Speaking  
